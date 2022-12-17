@@ -1,3 +1,0 @@
-hello world
-modilied A
-add and commit at the same time
